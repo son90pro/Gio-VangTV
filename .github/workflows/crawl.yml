@@ -2,7 +2,7 @@ name: Auto Split & Crawl M3U
 
 on:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '0 * * * *' # Chạy tự động cứ mỗi 1 tiếng 1 lần
   workflow_dispatch:
 
 jobs:
