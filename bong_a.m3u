@@ -1,36 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/e22caa597076764dd0d04b55d46f764e.png" group-title="Giờ Vàng TV" , 17:00 10/11 🏀 Ulsan Hyundai Mobis Phoebus vs Goyang Orions (blv-vit) [hls]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-oByM_l-CzkV4iHU3wzFB1aC4eTt0gc_sLzNCMXgkvA&s=10" group-title="Giờ Vàng TV" , 🟢 20:30 10/11 🏐 Ziraat Bankasi vs Alanya Bld (Sún) [hls]
+https://pzhgifbkllliv.vcdn.cloud/1794294676_hd/1794294676_hd@720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/bk-hacken-w.png" group-title="Giờ Vàng TV" , 🟡 00:45 11/11 ⚽ Nữ BK Hacken vs Nữ Chelsea FC (blv-tri) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ6vBdrVjA3NdglwDD3cP0UP1d_YgxPxPyzI6Shm3jbA&s=10" group-title="Giờ Vàng TV" , 17:00 10/11 🏐 SOOP SOOPers Nữ vs IBK Nữ (blv-sun) [hls]
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/real-madrid-w.png" group-title="Giờ Vàng TV" , 🟡 00:45 11/11 ⚽ Nữ Real Madrid vs Nữ Paris FC (blv-ngong) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfxrXWQ_bbnIXKAr0mE2oGUk4Do6HAS8PjX8e2tZtO0g&s" group-title="Giờ Vàng TV" , 17:05 10/11 🏀 Chiba vs Osaka (blv-cay) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShhKOQTxFJYg8-58nrWTz--1sdmKiSnkqyLdERxYmwmQ&s=10" group-title="Giờ Vàng TV" , 18:30 10/11 🏀 Barangay Ginebra San Miguel vs San Miguel Beermen (blv-leo) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/vietnam-u23.png" group-title="Giờ Vàng TV" , 19:00 10/11 ⚽ U23 Việt Nam vs U23 Thái Lan (blv-tri) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-oByM_l-CzkV4iHU3wzFB1aC4eTt0gc_sLzNCMXgkvA&s=10" group-title="Giờ Vàng TV" , 22:00 10/11 🏐 Ziraat Bankasi vs Alanya Bld (blv-sun) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ030AwJnowiv6Dq8YG7phO46ElUlBPoYL32j8Iz1sy_A&s=10" group-title="Giờ Vàng TV" , 22:00 10/11 🏐 Halkbank vs Fenerbahce (blv-diec) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREjZpMcNlBFtY3fqUDM9nejlXRPXPvVF6Rn-bis51nDw&s=10" group-title="Giờ Vàng TV" , 22:00 10/11 🏐 Galatasaray vs Gebze (blv-tri) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/bk-hacken-w.png" group-title="Giờ Vàng TV" , 00:45 11/11 ⚽ Nữ BK Hacken vs Nữ Chelsea FC (blv-tri) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/real-madrid-w.png" group-title="Giờ Vàng TV" , 00:45 11/11 ⚽ Nữ Real Madrid vs Nữ Paris FC (blv-ngong) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/hxdMgrGG-Wz6bfhxO.png" group-title="Giờ Vàng TV" , 01:00 11/11 ⚽ Feyenoord vs Wolfsburg (blv-sup) [hls]
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/hxdMgrGG-Wz6bfhxO.png" group-title="Giờ Vàng TV" , 🟡 01:00 11/11 ⚽ Feyenoord vs Wolfsburg (blv-18) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/roma-cf-w.png" group-title="Giờ Vàng TV" , 03:00 11/11 ⚽ Nữ Roma CF vs Servette (W) (blv-mason) [hls]
@@ -40,5 +19,11 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/paris-saint-germain-w.png" group-title="Giờ Vàng TV" , 03:00 11/11 ⚽ Nữ Paris Saint Germain vs Nữ Bayern Munich (blv-ngong) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/hzAqe0zB-UkrSKu1K.png" group-title="Giờ Vàng TV" , 07:00 11/11 🏉 Colorado Avalanche vs Toronto Maple Leafs (riko) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/YouJXDg5-ITwf9voH.png" group-title="Giờ Vàng TV" , 10:00 11/11 🏉 Nashville Predators vs Los Angeles Kings (blv-ngu) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
