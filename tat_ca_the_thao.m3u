@@ -1,42 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/atletico-mineiro.png" group-title="Bóng đá" , 🟢 05:30 22/11 ⚽ Atletico Mineiro vs Boca Juniors (Ngọng) [hls]
-https://pzhgifbkllliv.vcdn.cloud/1795062218_hd/1795062218_hd@720p.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/b7096093642227c698108ad872603a76.png" group-title="Bóng đá" , 🟢 10:00 22/11 🏀 Sacramento Kings vs Boston Celtics (Vịt) [hls]
+https://pzhgifbkllliv.vcdn.cloud/1795061244_hd/1795061244_hd@720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/inter-miami-cf.png" group-title="Bóng đá" , 🟢 06:00 22/11 ⚽ Inter Miami vs Columbus Crew (Bee) [hls]
-https://pzhgifbkllliv.vcdn.cloud/1795286020_hd/1795286020_hd@720p.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTWu9zRO6MM841Hq6XzhtphVXqS8z4h9jmVnsf3kLj5tb0FTLUVnAWAaWj&s=10" group-title="Bóng đá" , 🟢 11:00 22/11 [formula1] Heineken Las Vegas vs Grand Prix (Ngu) [hls]
+https://pzhgifbkllliv.vcdn.cloud/1795074506_hd/1795074506_hd@720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/c34850b658b2b7735d3bf51912e01bd1.png" group-title="Bóng đá" , 🟡 07:30 22/11 🏀 New York Knicks vs Portland Trail Blazers (blv-vit) [hls]
+#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/e5c63f30ad74c5c5159f1e7695173ae5.png" group-title="Bóng đá" , 🟢 11:00 22/11 🏀 South East Melbourne Phoenix vs Cairns Taipans (Mickey) [hls]
+https://pzhgifbkllliv.vcdn.cloud/1795061267_hd/1795061267_hd@720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/IT5JALxS-pxaNm0c7.png" group-title="Bóng đá" , 🟢 11:05 22/11 🏐 Toray Arrows Nữ vs Okayama Seagulls Nữ (Nem) [hls]
+https://pzhgifbkllliv.vcdn.cloud/1795318455_hd/1795318455_hd@720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/OQvoiZCr-KMZ7hG6b.png" group-title="Bóng đá" , 🟢 11:05 22/11 🏐 Gunma Greenwings Nữ vs Aleeza Aichi Nữ (Sún) [hls]
+https://pzhgifbkllliv.vcdn.cloud/1795254789_hd/1795254789_hd@720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/gimcheon-sangmu-fc.png" group-title="Bóng đá" , 🟡 12:00 22/11 ⚽ Gimcheon Sangmu vs Jeju United FC (blv-ty) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/0ae1b26dafd6ba3ff82f91d19b235038.png" group-title="Bóng đá" , 08:00 22/11 🏀 Dallas Mavericks vs Los Angeles Clippers (blv-leo) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/908efbb5ed053f61540cca47cc36e7ec.png" group-title="Bóng đá" , 08:00 22/11 🏀 San Antonio Spurs vs New Orleans Pelicans (blv-diec) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/e97782502546bad80da0347446a3a311.png" group-title="Bóng đá" , 08:00 22/11 🏀 Minnesota Timberwolves vs Memphis Grizzlies (blv-ben) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/wellington-phoenix.png" group-title="Bóng đá" , 09:00 22/11 ⚽ Wellington Phoenix vs FC Macarthur (blv-beo) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/b7096093642227c698108ad872603a76.png" group-title="Bóng đá" , 10:00 22/11 🏀 Sacramento Kings vs Boston Celtics (blv-vit) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/e5c63f30ad74c5c5159f1e7695173ae5.png" group-title="Bóng đá" , 11:00 22/11 🏀 South East Melbourne Phoenix vs Cairns Taipans (mickey) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTWu9zRO6MM841Hq6XzhtphVXqS8z4h9jmVnsf3kLj5tb0FTLUVnAWAaWj&s=10" group-title="Bóng đá" , 11:00 22/11 [formula1] Heineken Las Vegas vs Grand Prix (blv-ngu) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/OQvoiZCr-KMZ7hG6b.png" group-title="Bóng đá" , 11:05 22/11 🏐 Gunma Greenwings Nữ vs Aleeza Aichi Nữ (blv-sun) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/gimcheon-sangmu-fc.png" group-title="Bóng đá" , 12:00 22/11 ⚽ Gimcheon Sangmu vs Jeju United FC (blv-ty) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/MkA1GJXg-YJMxkMx4.png" group-title="Bóng đá" , 12:00 22/11 🏐 Hyundai E&C Hillstate Nữ vs Hungkuk Nữ (blv-tri) [hls]
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/MkA1GJXg-YJMxkMx4.png" group-title="Bóng đá" , 🟡 12:00 22/11 🏐 Hyundai E&C Hillstate Nữ vs Hungkuk Nữ (blv-tri) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/fd1ef26f7174d02a5a30dbe9e69b45f9.png" group-title="Bóng đá" , 13:00 22/11 🏀 Brisbane Bullets vs Sydney Kings (blv-vit) [hls]
@@ -67,5 +49,59 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/juventus.png" group-title="Bóng đá" , 18:30 22/11 ⚽ Juventus vs Venezia F.C. (blv-beo) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/denmark-u17.png" group-title="Bóng đá" , 19:30 22/11 ⚽ Denmark U17 vs Úc U17 (blv-ngu) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/fc-barcelona.png" group-title="Bóng đá" , 20:00 22/11 ⚽ Barcelona vs Villarreal (blv-sup) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/OpjISOXg-AabQOsPn.png" group-title="Bóng đá" , 20:00 22/11 🏐 Ilbank Nữ vs Vakifbank Nữ (blv-sun) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/france-u17.png" group-title="Bóng đá" , 20:30 22/11 ⚽ Pháp U17 vs Saudi Arabia U17 (blvhau) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/sassuolo.png" group-title="Bóng đá" , 21:00 22/11 ⚽ US Sassuolo Calcio vs Genoa (blv-beo) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/bologna.png" group-title="Bóng đá" , 21:00 22/11 ⚽ Bologna vs Udinese (blv-18) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/hull-city.png" group-title="Bóng đá" , 21:00 22/11 ⚽ Hull City vs Brighton   Hove Albion (riko) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/hull-city.png" group-title="Bóng đá" , 21:00 22/11 ⚽ Hull City vs Brighton   Hove Albion (blv-leo) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/paris-fc.png" group-title="Bóng đá" , 21:00 22/11 ⚽ Paris FC vs Angers SCO (blv-tri) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/south-korea-u17.png" group-title="Bóng đá" , 21:30 22/11 ⚽ Hàn Quốc U17 vs New Caledonia U17 (blv-can) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/augsburg.png" group-title="Bóng đá" , 21:30 22/11 ⚽ Augsburg vs Mainz (mickey) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/racing-santander.png" group-title="Bóng đá" , 22:15 22/11 ⚽ Racing Santander vs Real Sociedad (blv-mason) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/argentina-u17.png" group-title="Bóng đá" , 22:30 22/11 ⚽ Argentina U17 vs Mozambique U17 (blv-ngu) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/3db71e411344ff9410da86c3f09fd6f2.png" group-title="Bóng đá" , 23:00 22/11 🏀 Basquet Coruna vs Lleida (blv-cay) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/liverpool.png" group-title="Bóng đá" , 23:30 22/11 ⚽ Liverpool vs Manchester United (daucauliver) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/liverpool.png" group-title="Bóng đá" , 23:30 22/11 ⚽ Liverpool vs Manchester United (vuive) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/liverpool.png" group-title="Bóng đá" , 23:30 22/11 ⚽ Liverpool vs Manchester United (cay+dory) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/werder-bremen.png" group-title="Bóng đá" , 23:30 22/11 ⚽ Werder Bremen vs Hamburger (blv Mù) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
