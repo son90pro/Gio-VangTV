@@ -1,66 +1,30 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/fluminense-rj.png" group-title="Giờ Vàng TV" , 🟢 06:00 28/11 ⚽ Fluminense (RJ) vs Cruzeiro (MG) (Hấu) [hls]
-https://pzhgifbkllliv.vcdn.cloud/1795678189_hd/1795678189_hd@720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Giờ Vàng TV" , 🟢 11:00 28/11 ⚾ Vương quốc Anh vs Cộng hòa Séc (Cận) [hls]
+https://pzhgifbkllliv.vcdn.cloud/1795757228_hd/1795757228_hd@720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/c34850b658b2b7735d3bf51912e01bd1.png" group-title="Giờ Vàng TV" , 🟡 07:00 28/11 🏀 New York Knicks vs Miami Heat (riko) [hls]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL-WlPWu_yrR_V6uGF0D5nV2gj059g3-4WWcq0xCagQA&s=10" group-title="Giờ Vàng TV" , 🟢 11:00 28/11 🎮 PGL Major Stage 2 vs Stream A Ca 1 (Mickey) [hls]
+https://pzhgifbkllliv.vcdn.cloud/1795826479_hd/1795826479_hd@720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/4Mqb9BEa-jgOmDmeJ.png" group-title="Giờ Vàng TV" , 🟢 11:05 28/11 🏐 Ageo Nữ vs Gunma Greenwings Nữ (Sún) [hls]
+https://pzhgifbkllliv.vcdn.cloud/1795756310_hd/1795756310_hd@720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/shimizu-s-pulse.png" group-title="Giờ Vàng TV" , 🟢 12:00 28/11 ⚽ Shimizu S-Pulse vs Urawa Red Diamonds (Trĩ) [hls]
+https://pzhgifbkllliv.vcdn.cloud/1795755231_hd/1795755231_hd@720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/kyoto-sanga.png" group-title="Giờ Vàng TV" , 🟢 12:00 28/11 ⚽ Kyoto Sanga vs Cerezo Osaka (Ngọng) [hls]
+https://pzhgifbkllliv.vcdn.cloud/1795755288_hd/1795755288_hd@720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/kashima-antlers.png" group-title="Giờ Vàng TV" , 🟢 13:00 28/11 ⚽ Kashima Antlers vs Okayama FC (Tèo) [hls]
+https://pzhgifbkllliv.vcdn.cloud/1795838796_hd/1795838796_hd@720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL-WlPWu_yrR_V6uGF0D5nV2gj059g3-4WWcq0xCagQA&s=10" group-title="Giờ Vàng TV" , 🟢 13:00 28/11 🎮 Luồng B _ PGL Major Singapore 2026 vs Stage 2 _ Opening Round (Nem) [hls]
+https://pzhgifbkllliv.vcdn.cloud/1795826660_hd/1795826660_hd@720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/vissel-kobe.png" group-title="Giờ Vàng TV" , 🟡 13:00 28/11 ⚽ Vissel Kobe vs JEF United Ichihara (blv Mù) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/c4677b9a5c8823ad3070069d8741a809.png" group-title="Giờ Vàng TV" , 07:30 28/11 🏀 Detroit Pistons vs Milwaukee Bucks (blv-can) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/3f61db02c20eb73e5f27948b3122f2fb.png" group-title="Giờ Vàng TV" , 07:30 28/11 🏀 Toronto Raptors vs Brooklyn Nets (blv-sun) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/3a8c9a8a304f078913c60b52698ab585.png" group-title="Giờ Vàng TV" , 07:30 28/11 🏀 Indiana Pacers vs Philadelphia 76ers (blv-cay) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/ef37e5c1c853e5b689b6791b00e8bc58.png" group-title="Giờ Vàng TV" , 08:00 28/11 🏀 Boston Celtics vs Atlanta Hawks (blv-leo) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/mTXURxq0CbsVREw9q3UAnw_96x96.png" group-title="Giờ Vàng TV" , 08:00 28/11 🎮 Pittsburgh Penguins vs Buffalo Sabres (blv-ngu) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/columbus-crew.png" group-title="Giờ Vàng TV" , 08:00 28/11 ⚽ Columbus Crew vs Inter Miami (blv-tri) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/e97782502546bad80da0347446a3a311.png" group-title="Giờ Vàng TV" , 08:30 28/11 🏀 Minnesota Timberwolves vs Memphis Grizzlies (mickey) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/6a6855785a58edb23c76c99ed6601a33.png" group-title="Giờ Vàng TV" , 09:00 28/11 🏀 Phoenix Suns vs Dallas Mavericks (blv-diec) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/ea86671a348a3277fa075840258d8bc7.png" group-title="Giờ Vàng TV" , 09:30 28/11 🏀 Portland Trail Blazers vs Golden State Warriors (riko) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/d96dfd2dedd39877ed1f06ea31270a46.png" group-title="Giờ Vàng TV" , 09:30 28/11 🏀 Los Angeles Clippers vs New Orleans Pelicans (blv-mason) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/908efbb5ed053f61540cca47cc36e7ec.png" group-title="Giờ Vàng TV" , 09:30 28/11 🏀 San Antonio Spurs vs Los Angeles Lakers (blv-ben) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/a0f2371dad505780cccd4cba8baa0610.png" group-title="Giờ Vàng TV" , 09:30 28/11 🏀 Utah Jazz vs Denver Nuggets (blv-nem) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/real-salt-lake.png" group-title="Giờ Vàng TV" , 10:00 28/11 ⚽ Real Salt Lake vs Vancouver Whitecaps FC (blvhau) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Giờ Vàng TV" , 11:00 28/11 ⚾ Vương quốc Anh vs Cộng hòa Séc (blv-can) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/4Mqb9BEa-jgOmDmeJ.png" group-title="Giờ Vàng TV" , 11:05 28/11 🏐 Ageo Nữ vs Gunma Greenwings Nữ (blv-sun) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/fc-seoul.png" group-title="Giờ Vàng TV" , 12:00 28/11 ⚽ FC Seoul vs Daejeon Citizen (blvhau) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/shimizu-s-pulse.png" group-title="Giờ Vàng TV" , 12:00 28/11 ⚽ Shimizu S-Pulse vs Urawa Red Diamonds (blv-tri) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/kyoto-sanga.png" group-title="Giờ Vàng TV" , 12:00 28/11 ⚽ Kyoto Sanga vs Cerezo Osaka (blv-ngong) [hls]
-https://freem3u.xyz/static/no-signal/low.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/vissel-kobe.png" group-title="Giờ Vàng TV" , 13:00 28/11 ⚽ Vissel Kobe vs JEF United Ichihara (blv Mù) [hls]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL-WlPWu_yrR_V6uGF0D5nV2gj059g3-4WWcq0xCagQA&s=10" group-title="Giờ Vàng TV" , 🟡 13:00 28/11 🎮 PGL Major Stage 2 vs Stream A Ca 2 (mickey) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/kashiwa-reysol.png" group-title="Giờ Vàng TV" , 14:00 28/11 ⚽ Kashiwa Reysol vs Sanfrecce Hiroshima (blvhau) [hls]
@@ -78,6 +42,12 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 #EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/dong-thap.png" group-title="Giờ Vàng TV" , 16:00 28/11 ⚽ Cao Su Đồng Tháp vs Becamex Bình Dương (blv-mason) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/6VLy61Ea-QDuM2WrS.png" group-title="Giờ Vàng TV" , 17:30 28/11 ⚾ Trung Quốc vs Nicaragua (blv-can) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/0hzJepyB-8KgAhGe1.png" group-title="Giờ Vàng TV" , 18:00 28/11 🥎 Great Britain vs Spain (blv-ben) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/than-quang-ninh.gif" group-title="Giờ Vàng TV" , 18:00 28/11 ⚽ Than Quảng Ninh vs TP Hồ Chí Minh (blv Mù) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
@@ -91,5 +61,71 @@ https://freem3u.xyz/static/no-signal/low.m3u8
 https://freem3u.xyz/static/no-signal/low.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.keobongvip.digital/images/basketball-teams/2b794e95819c64c838fd0b228aa31404.png" group-title="Giờ Vàng TV" , 18:00 28/11 🏀 United Arab Emirates vs Sri Lanka (blv-ngu) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/hanoi-fc.png" group-title="Giờ Vàng TV" , 19:15 28/11 ⚽ Hà Nội vs Hồng Lĩnh Hà Tĩnh (riko) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/al-hazm.png" group-title="Giờ Vàng TV" , 19:15 28/11 ⚽ Al-Hazm vs Al-Nassr FC (blv-tri) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/real-betis.png" group-title="Giờ Vàng TV" , 20:00 28/11 ⚽ Real Betis vs Rayo Vallecano (blv Mù) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/frosinone.png" group-title="Giờ Vàng TV" , 21:00 28/11 ⚽ Frosinone vs Parma (daucaumu) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ihomSoN70duyfMlEESNOZgzBajiH7TPKkBbYO7PsGboV8MT09I3xjxV4&s=10" group-title="Giờ Vàng TV" , 21:30 28/11 [formula1] Qatar vs Grand Prix (blv-ngu) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/fc-koln.png" group-title="Giờ Vàng TV" , 21:30 28/11 ⚽ Koln vs SV Elversberg (blv-tri) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/sc-paderborn-07.png" group-title="Giờ Vàng TV" , 21:30 28/11 ⚽ SC Paderborn 07 vs Schalke 04 (blv-mason) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/fsv-mainz-05.png" group-title="Giờ Vàng TV" , 21:30 28/11 ⚽ Mainz vs Union Berlin (blv-cay) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/hamburger-sv.png" group-title="Giờ Vàng TV" , 21:30 28/11 ⚽ Hamburger vs Bayern Munich (blv-ngong) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/west-ham-united.png" group-title="Giờ Vàng TV" , 22:00 28/11 ⚽ West Ham United vs Stoke City (blvteo) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/leeds-united.png" group-title="Giờ Vàng TV" , 22:00 28/11 ⚽ Leeds United vs Coventry (blv-ty) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/manchester-united.png" group-title="Giờ Vàng TV" , 22:00 28/11 ⚽ Manchester United vs Brentford (blv-beo) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/manchester-united.png" group-title="Giờ Vàng TV" , 22:00 28/11 ⚽ Manchester United vs Brentford (blvhau) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/manchester-united.png" group-title="Giờ Vàng TV" , 22:00 28/11 ⚽ Manchester United vs Brentford (blvthuviec) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/malaga.png" group-title="Giờ Vàng TV" , 22:15 28/11 ⚽ Malaga vs Athletic Bilbao (blv Mù) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/U7VD3hCr-hhkSSKkE.png" group-title="Giờ Vàng TV" , 23:00 28/11 🏐 Spor Toto vs Ziraat Bankasi (blv-sun) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/angers.png" group-title="Giờ Vàng TV" , 23:15 28/11 ⚽ Angers SCO vs Lens (daucaumu) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/torino.png" group-title="Giờ Vàng TV" , 00:00 29/11 ⚽ Torino vs Lazio (blv-ngong) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.flashscore.com/res/image/data/OzMivUfM-nPZTIbUt.png" group-title="Giờ Vàng TV" , 00:05 29/11 🏉 Michigan Wolverines vs Ohio State Buckeyes (riko) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/ipswich-town.png" group-title="Giờ Vàng TV" , 00:30 29/11 ⚽ Ipswich vs Aston Villa (blv-sup) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/vfb-stuttgart.png" group-title="Giờ Vàng TV" , 00:30 29/11 ⚽ VfB Stuttgart vs Eintracht Frankfurt (blv-mason) [hls]
+https://freem3u.xyz/static/no-signal/low.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.keovip88.net/images/teams/elche.png" group-title="Giờ Vàng TV" , 00:30 29/11 ⚽ Elche vs Atletico Madrid (blv-nem) [hls]
 https://freem3u.xyz/static/no-signal/low.m3u8
 
